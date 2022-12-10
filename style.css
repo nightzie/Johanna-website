@@ -1,0 +1,33 @@
+body {
+    background: #5d5250;
+  }
+  
+  .header-content {
+    text-align: center;
+  }
+  
+  .btn {
+    background: transparent;
+    border: none;
+    background-color: rgb(209, 31, 31);
+    color: rgb(110, 110, 110);
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  /* JavaScript */
+  .cats {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .random_cats {
+    width: 60%;
+  }
+  
+  img {
+    max-width: 700px;
+    height: 30rem;
+  }
